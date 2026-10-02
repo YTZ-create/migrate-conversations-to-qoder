@@ -12,7 +12,7 @@ Batch-migrate exported conversation Markdown (MiMo / ChatGPT / Claude / any sour
 
 </div>
 
-> 💡 **看不懂怎么用？** 别啃文档——直接把这个仓库（或这份 README）扔给你的 AI 助手，说一句「按这个帮我把对话迁进 Qoder」，让它读完替你做就行。
+> 💡 **看不懂怎么用？** 直接把这个仓库（或这个网址）扔给你的 AI 助手，说一句「按这个帮我把对话迁进 Qoder」，让它读完替你做就行。
 
 ---
 
