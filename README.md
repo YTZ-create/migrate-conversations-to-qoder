@@ -12,7 +12,7 @@ Batch-migrate exported conversation Markdown (MiMo / ChatGPT / Claude / any sour
 
 </div>
 
-> 💡 **看不懂怎么用？** **在 Qoder 里打开目标项目、新建一个对话**，把这个仓库（或这份 README）扔给它，说一句「按这个帮我把对话迁进 Qoder」，让它读完替你做就行。
+> 💡 **看不懂怎么用？** **在 Qoder 里打开目标项目、新建一个对话**，把这个仓库（或这个网址）扔给它，说一句「按这个帮我把对话迁进 Qoder」，让它读完替你做就行。
 >
 > ⚠️ **必须在 Qoder 里做。** 本技能依赖 Qoder 内置的 `create_chat_session` / `list_chat_sessions` / `read_chat_session` / `wait_chat_sessions` 工具。在 **Trae / Cursor / Claude Code / 其它任何环境**里这些工具**不存在**，AI读完也只会发现做不了——别在那儿试。
 
